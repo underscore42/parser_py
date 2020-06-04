@@ -1,0 +1,8 @@
+# Just something to test against
+
+VERSION = 4
+PATCHLEVEL = 14
+
+#
+VERSIONING = false
+PATCH_LEVEL = 87
